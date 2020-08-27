@@ -1,1 +1,1 @@
-workeк : python kommunizmbot.py
+worker : python kommunizmbot.py
