@@ -1,1 +1,1 @@
-worker : python kommunizmbot.py
+web: kommunizmbot.py
